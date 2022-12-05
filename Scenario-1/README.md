@@ -1,0 +1,1 @@
+ - Asssume that RDS is running in private subnet and behind Nat Gateway
